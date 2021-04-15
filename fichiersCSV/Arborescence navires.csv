@@ -1,0 +1,287 @@
+Niveau 1;Niveau 2;Niveau 3;Niveau 4
+TANKERS;Liquefied Gas;LNG Tanker;LNG Tanker
+TANKERS;Liquefied Gas;LNG Tanker;CNG Tanker
+TANKERS;Liquefied Gas;LNG Tanker;Combinaison Gas Tanker
+TANKERS;Liquefied Gas;LPG Tanker;LPG Tanker
+TANKERS;Liquefied Gas;LPG Tanker;LPG Chemical Tanker
+TANKERS;Liquefied Gas;CO2 Tanker;CO2 Tanker
+TANKERS;Chemical;Chemical Tanker;Chemical Tanker
+TANKERS;Chemical;Chemical Tanker;Molten Sulphur Tanker
+TANKERS;Chemical;Chemical Oil Products tanker;Chemical Products Tanker
+TANKERS;Chemical;Wine Tanker;Wine Tanker
+TANKERS;Chemical;Vegetable Oil Tanker;Vegetable Oil Tanker
+TANKERS;Chemical;Edible Oil Tanker;Edible Oil Tanker
+TANKERS;Chemical;Beer Tanker;Beer Tanker
+TANKERS;Chemical;Latex Tanker;Latex Tanker
+TANKERS;Oil;Crude Oil Tanker;Crude Oil Tanker
+TANKERS;Oil;Crude Oil Tanker;Shuttle Oil Tanker
+TANKERS;Oil;Crude Oil Tanker;Crude Oil Products Tanker
+TANKERS;Oil;Oil Products Tanker;Products Tanker
+TANKERS;Oil;Oil Products Tanker;Tanker (unspecified)
+TANKERS;Oil;Biyumen Tanker;Asphalt Bitumen Tanker
+TANKERS;Oil;Coal Oil Mixture Tanker;Coal Oil Mixture Tanker
+TANKERS;Other Liquids;Water Tanker;Water Tanker
+TANKERS;Other Liquids;Fruit Juice Tanker;Fruit Juice Carrier, Refrigerated
+TANKERS;Other Liquids;Molasses Tanker;Molasses Tanker
+TANKERS;Other Liquids;Glue Tanker;Glue Tanker
+TANKERS;Other Liquids;Alcohol Tanker;Alcohol Tanker
+TANKERS;Other Liquids;Caprolactam Tanker;Caprolactam Tanker
+BULK CARRIERS;Bulk Dry;Bulk Carrier;Bulk Carrier
+BULK CARRIERS;Bulk Dry;Bulk Carrier;Bulk Carrier, Laker Only
+BULK CARRIERS;Bulk Dry;Bulk Carrier;Bulk Carrier (with Vehicle Decks)
+BULK CARRIERS;Bulk Dry;Ore Carrier;Ore Carrier
+BULK CARRIERS;Bulk Dry Liquid;Bulk Liquid Carrier;Bulk Liquid Carrier
+BULK CARRIERS;Bulk Dry Liquid;Bulk Oil Carrier;Bulk Oil Carrier (OBO)
+BULK CARRIERS;Bulk Dry Liquid;Bulk Oil Carrier;Bulk Caustic Soda Carrier (CABU)
+BULK CARRIERS;Bulk Dry Liquid;Bulk Oil Carrier;Bulk Sulphuric Acid Carrier
+BULK CARRIERS;Bulk Dry Liquid;Ore Oil Carrier;Ore Oil Carrier
+BULK CARRIERS;Bulk Dry Liquid;Ore Oil Carrier;Bulk Oil Chemical Carrier (CLEANBU)
+BULK CARRIERS;Self Discharging Bulk Carrier;Self Discharging Bulk Carrier;Bulk Carrier, Self-discharging
+BULK CARRIERS;Self Discharging Bulk Carrier;Self Discharging Bulk Carrier;Bulk Carrier, Self-discharging, Laker
+BULK CARRIERS;Other Bulk Dry;Cement Carrier;Cement Carrier
+BULK CARRIERS;Other Bulk Dry;Wood Chips Carrier;Wood Chips Carrier
+BULK CARRIERS;Other Bulk Dry;Urea Carrier;Urea Carrier
+BULK CARRIERS;Other Bulk Dry;Aggregates Carrier;Aggregates Carrier
+BULK CARRIERS;Other Bulk Dry;Limestone Carrier;Limestone Carrier
+BULK CARRIERS;Other Bulk Dry;Refined Sugar Carrier;Refined Sugar Carrier
+BULK CARRIERS;Other Bulk Dry;Powder Carrier;Powder Carrier
+DRY CARGO PASSENGER;General Cargo;General Cargo Ship;General Cargo Ship (with Ro-Ro facility)
+DRY CARGO PASSENGER;General Cargo;General Cargo Ship;General Cargo Ship, self-discharging
+DRY CARGO PASSENGER;General Cargo;General Cargo Ship;Open Hatch Cargo Ship
+DRY CARGO PASSENGER;General Cargo;General Cargo Ship;General Cargo Ship
+DRY CARGO PASSENGER;General Cargo;General Cargo Ship;General Cargo Tanker
+DRY CARGO PASSENGER;General Cargo;Palletised Cargo Ship;Palletised Cargo Ship
+DRY CARGO PASSENGER;General Cargo;Deck Cargo Ship;Deck Cargo Ship
+DRY CARGO PASSENGER;Passenger General Cargo;Passenger General Cargo Ship;General Cargo Passenger Ship
+DRY CARGO PASSENGER;Container;Container Ship;Container Ship (Fully Cellular Ro-Ro Facility)
+DRY CARGO PASSENGER;Container;Container Ship;Container Ship (Fully Cellular)
+DRY CARGO PASSENGER;Container;Passenger Container Ship;Passenger Container Ship
+DRY CARGO PASSENGER;Refrigerated Cargo;Refrigerated Cargo Ship;Refrigerated Cargo Ship
+DRY CARGO PASSENGER;Ro-Ro Cargo;Ro-Ro Cargo Ship;Ro-Ro Cargo Ship
+DRY CARGO PASSENGER;Ro-Ro Cargo;Ro-Ro Cargo Ship;Ro-Ro Cargo Ship, Inland Waterways
+DRY CARGO PASSENGER;Ro-Ro Cargo;Ro-Ro Cargo Ship;Rail Vehicles Carrier
+DRY CARGO PASSENGER;Ro-Ro Cargo;Vehicles Carrier;Vehicles Carrier
+DRY CARGO PASSENGER;Ro-Ro Cargo;Container Ro-Ro Cargo Ship;Container Ro-Ro Cargo Ship
+DRY CARGO PASSENGER;Ro-Ro Cargo;Landing Craft;Landing Craft
+DRY CARGO PASSENGER;Passenger Ro-Ro Cargo;Passenger Ro-Ro Cargo Ship;Passenger Ro-Ro Ship (Vehicles Rail)
+DRY CARGO PASSENGER;Passenger Ro-Ro Cargo;Passenger Ro-Ro Cargo Ship;Passenger Ro-Ro Ship (Vehicles)
+DRY CARGO PASSENGER;Passenger Ro-Ro Cargo;Passenger Ro-Ro Cargo Ship;Passenger Ro-Ro Ship (Vehicles), Inland Waterways
+DRY CARGO PASSENGER;Passenger Ro-Ro Cargo;Passenger Landing Craft;Passenger Landing Craft
+DRY CARGO PASSENGER;Passenger;Passenger (Cruise) Ship;Passenger Cruise
+DRY CARGO PASSENGER;Passenger;Passenger Ship;Passenger Ship
+DRY CARGO PASSENGER;Other Dry Cargo;Livestock Carrier;Livestock Carrier
+DRY CARGO PASSENGER;Other Dry Cargo;Barge Carrier;Barge Carrier
+DRY CARGO PASSENGER;Other Dry Cargo;Heavy Load Carrier;Heavy Load Carrier
+DRY CARGO PASSENGER;Other Dry Cargo;Heavy Load Carrier;Heavy Load Carrier, semi submersible
+DRY CARGO PASSENGER;Other Dry Cargo;Heavy Load Carrier;Yacht Carrier, semi submersible
+DRY CARGO PASSENGER;Other Dry Cargo;Nuclear Fuel Carrier;Nuclear Fuel Carrier
+DRY CARGO PASSENGER;Other Dry Cargo;Nuclear Fuel Carrier;Nuclear Fuel Carrier (with Ro-Ro facility)
+DRY CARGO PASSENGER;Other Dry Cargo;Pulp Carrier;Pulp Carrier
+FISHING;Fish Catching;Trawler;Trawler
+FISHING;Fish Catching;Fishing Vessel;Fishing Vessel
+FISHING;Other Fishing;Fish Factory Ship;Fish Factory Ship
+FISHING;Other Fishing;Fish Carrier;Fish Carrier
+FISHING;Other Fishing;Live Fish Carrier;Live Fish Carrier (Well Boat)
+FISHING;Other Fishing;Fishing Support Vessel;Fish Farm Support Vessel
+FISHING;Other Fishing;Fishing Support Vessel;Fishery Patrol Vessel
+FISHING;Other Fishing;Fishing Support Vessel;Fishery Research Vessel
+FISHING;Other Fishing;Fishing Support Vessel;Fishery Support Vessel
+FISHING;Other Fishing;Seal Catcher;Seal Catcher
+FISHING;Other Fishing;Whale Catcher;Whale Catcher
+FISHING;Other Fishing;Kelp Dredger;Kelp Dredger
+FISHING;Other Fishing;Pearl Shells Carrier;Pearl Shells Carrier
+OFFSHORE;Offshore Supply;Platform Supply Ship;Crew Supply Vessel
+OFFSHORE;Offshore Supply;Platform Supply Ship;Pipe Carrier
+OFFSHORE;Offshore Supply;Platform Supply Ship;Platform Supply Ship
+OFFSHORE;Offshore Supply;Offshore Tug Supply Ship;Anchor Handling Tug Supply 
+OFFSHORE;Offshore Supply;Offshore Tug Supply Ship;Offshore Tug Supply Ship
+OFFSHORE;Other Offshore;Offshore Support Vessel;Offshore Support Vessel
+OFFSHORE;Other Offshore;Offshore Support Vessel;Diving Support Vessel
+OFFSHORE;Other Offshore;Offshore Support Vessel;Accommodation Ship
+OFFSHORE;Other Offshore;Offshore Support Vessel;Offshore Construction Vessel, jack up
+OFFSHORE;Other Offshore;Drilling Ship ;Drilling Ship 
+OFFSHORE;Other Offshore;Pipe Layer;Pipe Layer
+OFFSHORE;Other Offshore;Pipe Layer;Pipe Layer Crane Vessel
+OFFSHORE;Other Offshore;Production Testing Vessel;Production Testing Vessel
+OFFSHORE;Other Offshore;FPSO (Floating, Production, Storage, Offloading);FPSO, Oil
+OFFSHORE;Other Offshore;FPSO (Floating, Production, Storage, Offloading);Gas Processing Vessel
+OFFSHORE;Other Offshore;Well Stimulation Vessel;Well Stimulation Vessel
+OFFSHORE;Other Offshore;Standby Safety Vessel;Standby Safety Vessel
+OFFSHORE;Other Offshore;FSO (Floating, Storage, Offloading);FSO, Oil
+OFFSHORE;Other Offshore;Trenching Support Vessel;Trenching Support Vessel
+OFFSHORE;Other Offshore;Pipe Burying Vessel;Pipe Burying Vessel
+MISCELLANEOUS;Research;Research Vessel;Research Survey Vessel
+MISCELLANEOUS;Towing Pushing;Tug;Tug
+MISCELLANEOUS;Towing Pushing;Pusher Tug;Pusher Tug
+MISCELLANEOUS;Towing Pushing;Pusher Tug;Articulated Pusher Tug
+MISCELLANEOUS;Dredging;Dredger;Bucket Ladder Dredger
+MISCELLANEOUS;Dredging;Dredger;Cutter Suction Dredger
+MISCELLANEOUS;Dredging;Dredger;Grab Dredger
+MISCELLANEOUS;Dredging;Dredger;Bucket Wheel Suction Dredger
+MISCELLANEOUS;Dredging;Dredger;Backhoe Dredger
+MISCELLANEOUS;Dredging;Dredger;Bucket Wheel
+MISCELLANEOUS;Dredging;Dredger;Suction Dredger
+MISCELLANEOUS;Dredging;Dredger;Dredger (unspecified)
+MISCELLANEOUS;Dredging;Dredger;Water Injection Dredger
+MISCELLANEOUS;Dredging;Hopper Dredger;Bucket Hopper Dredger
+MISCELLANEOUS;Dredging;Hopper Dredger;Grab Hopper Dredger
+MISCELLANEOUS;Dredging;Hopper Dredger;Suction Hopper Dredger
+MISCELLANEOUS;Dredging;Hopper Dredger;Trailing Suction Hopper Dredger
+MISCELLANEOUS;Dredging;Hopper Dredger;Hopper Dredger (unspecified)
+MISCELLANEOUS;Other Activities Dredging;Motor Hopper;Hopper, Motor
+MISCELLANEOUS;Other Activities Dredging;Motor Hopper;Stone Carrier
+MISCELLANEOUS;Other Activities Dredging;Crane Ship;Crane Vessel
+MISCELLANEOUS;Other Activities Dredging;Crane Ship;Pile Driving Vessel
+MISCELLANEOUS;Other Activities Dredging;Icebreaker;Icebreaker
+MISCELLANEOUS;Other Activities Dredging;Icebreaker;Icebreaker Research
+MISCELLANEOUS;Other Activities Dredging;Cable Layer;Cable Layer
+MISCELLANEOUS;Other Activities Dredging;Cable Layer;Cable Repair Ship
+MISCELLANEOUS;Other Activities Dredging;Waste Disposal Vessel;Incinerator
+MISCELLANEOUS;Other Activities Dredging;Waste Disposal Vessel;Waste Disposal Vessel
+MISCELLANEOUS;Other Activities Dredging;Waste Disposal Vessel;Effluent carrier
+MISCELLANEOUS;Other Activities Dredging;Fire Fighting Vessel;Fire Fighting Vessel
+MISCELLANEOUS;Other Activities Dredging;Pollution Control Vessel;Pollution Control Vessel
+MISCELLANEOUS;Other Activities Dredging;Patrol Vessel;Patrol Vessel
+MISCELLANEOUS;Other Activities Dredging;Crew Boat;Crew Boat
+MISCELLANEOUS;Other Activities Dredging;Training Ship;Training Ship
+MISCELLANEOUS;Other Activities Dredging;Utility Vessel;Utility Vessel
+MISCELLANEOUS;Other Activities Dredging;Search & Rescue Vessel;Search & Rescue Vessel
+MISCELLANEOUS;Other Activities Dredging;Pilot Vessel;Pilot Vessel
+MISCELLANEOUS;Other Activities Dredging;Salvage Ship;Salvage Ship
+MISCELLANEOUS;Other Activities Dredging;Buoy Lighthouse Vessel;Buoy Tender
+MISCELLANEOUS;Other Activities Dredging;Buoy Lighthouse Vessel;Lighthouse Tender
+MISCELLANEOUS;Other Activities Dredging;Buoy Lighthouse Vessel;Buoy & Lighthouse Tender
+MISCELLANEOUS;Other Activities Dredging;Supply Tender;Supply Tender
+MISCELLANEOUS;Other Activities Dredging;Mooring vessel;Mooring Vessel
+MISCELLANEOUS;Other Activities Dredging;Work Repair Vessel;Work Repair Vessel
+MISCELLANEOUS;Other Activities Dredging;Hospital Vessel;Hospital Vessel
+MISCELLANEOUS;Other Activities Dredging;Tank Cleaning Vessel;Tank Cleaning Vessel
+MISCELLANEOUS;Other Activities Dredging;Trans Shipment Vessel;Trans Shipment Vessel
+MISCELLANEOUS;Other Activities Dredging;Anchor Hoy;Anchor Handling Vessel
+MISCELLANEOUS;Other Activities Dredging;Rocket Launch Support Ship;Rocket Launch Support Ship
+MISCELLANEOUS;Other Activities Dredging;Log Tipping Ship;Log Tipping Ship
+MISCELLANEOUS;Other activities;Other activities;Other activities
+MISCELLANEOUS;Other Activities Cont.;Leisure Vessels;Exhibition Vessel
+MISCELLANEOUS;Other Activities Cont.;Leisure Vessels;Theatre Vessel
+MISCELLANEOUS;Other Activities Cont.;Leisure Vessels;Mission Ship
+MISCELLANEOUS;Other Activities Cont.;Dry Storage;Bulk Dry Storage Ship
+MISCELLANEOUS;Other Activities Cont.;Dry Storage;Bulk Cement Storage Ship
+MISCELLANEOUS;Other Activities Cont.;Mining Vessel;Mining Vessel
+MISCELLANEOUS;Other Activities Cont.;Bunkering tanker;Bunkering tanker
+MISCELLANEOUS;Other Activities Cont.;Power Station Vessel;Power Station Vessel
+MISCELLANEOUS;Other Activities Cont.;Vessel (Function Unknown);Vessel (Function Unknown)
+MISCELLANEOUS;Other Activities Cont.;Sailing Vessel;Sailing Vessel
+INLAND WATERWAYS;Inland Waterways Tanker;Inland Waterways Chemical Tanker;Chemical Tanker, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Tanker;Inland Waterways Chemical Tanker;Chemical Products Tanker, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Tanker;Inland Waterways Oil Tanker;Oil Tanker, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Tanker;Inland Waterways Other Liquids Tanker;Edible Oil Tanker, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Tanker;Inland Waterways Other Liquids Tanker;Water Tanker, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Tanker;Inland Waterways Other Liquids Tanker;Vegetable Oil Tanker, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Tanker;IWW LPG Tanker;LPG Tanker, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Dry Cargo ;Bulk Cement Carrier, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Dry Cargo ;Container Ship (Fully Cellular), Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Dry Cargo ;General Cargo, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Passenger General Cargo;Passenger General Cargo, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Ro-Ro Cargo;Ro-Ro Cargo, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Passenger Ro-Ro Cargo;Passenger Ro-Ro Cargo (Vehicles), Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Passenger Ro-Ro Cargo;Passenger Ro-Ro Cargo (Vehicles Train), Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Passenger;Cruise Ship, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Dry Cargo Passenger;Inland Waterways Passenger;Passenger Ship, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Other Non Seagoing;Inland Waterways Fishing;Fishing, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Other Non Seagoing;Inland Waterways Research;Research, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Other Non Seagoing;Inland Waterways Towing Pushing;Towing Pushing, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Other Non Seagoing;Inland Waterways Dredging;Dredging, Inland Waterways
+INLAND WATERWAYS;Inland Waterways Other Non Seagoing;Inland Waterways Other Activities;Other Activities, Inland Waterways
+NON MERCHANT SHIPS;Non Merchant Ships;Non Merchant Ships;Non Merchant Ships
+NON MERCHANT SHIPS;Yacht;Yacht;Yacht
+NON MERCHANT SHIPS;Yacht;Yacht;Yacht (Sailing)
+NON MERCHANT SHIPS;Yacht;Yacht;Houseboat
+NON MERCHANT SHIPS;Yacht;Sail Training Ship;Sail Training Ship
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Replenishment Dry Cargo Vessel
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Replenishment Tanker
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Unknown Function, Naval Naval Auxiliary
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Naval Small Craft
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Minehunter
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Minelayer
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Minesweeper
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Torpedo Recovery Vessel
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Troopship
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Munitions Carrier
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Submarine Salvage Vessel
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Aircraft Carrier
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Command Vessel
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Corvette
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Destroyer
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Frigate
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Helicopter Carrier
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Attack Vessel, Naval
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Weapons Trials Vessel
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Logistics Vessel (Naval Ro-Ro Cargo)
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Infantry Landing Craft
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Landing Ship (Dock Type)
+NON MERCHANT SHIPS;Yacht;Naval Naval Auxiliary;Tank Landing Craft
+NON MERCHANT SHIPS;Yacht;Other Non merchant Ships;Traininig Ship, Stationary
+NON MERCHANT SHIPS;Yacht;Other Non merchant Ships;Accommodation Vessel, Stationary
+NON MERCHANT SHIPS;Yacht;Other Non merchant Ships;Lightship
+NON MERCHANT SHIPS;Yacht;Other Non merchant Ships;Museum, Stationary
+NON MERCHANT SHIPS;Yacht;Other Non merchant Ships;Restaurant Vessel, Stationary
+NON MERCHANT SHIPS;Yacht;Other Non merchant Ships;Radio Station Vessel
+NON PROPELLED;Barge;Barge;Barge
+NON PROPELLED;Non Propelled;Non Propelled Barge;Bulk Aggregates Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Covered Bulk Cargo Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Bulk Cement Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Fish Storage Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;General Cargo Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Bitumen Tank Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Trans Shipment Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Water Tank Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Hopper Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Cement Storage Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Chemical Tank Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;LPG Tank Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Products Tank Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Chemical Products Tank Barge, non propelled
+NON PROPELLED;Non Propelled;Non Propelled Barge;Crude Oil Tank Barge, non propelled
+NON PROPELLED;Non Propelled;Pontoon;Deck Cargo Pontoon, semi submersible
+NON PROPELLED;Non Propelled;Pontoon;Jacket Cargo Pontoon, semi submersible
+NON PROPELLED;Non Propelled;Pontoon;Bucket Drudger Pontoon
+NON PROPELLED;Non Propelled;Pontoon;Deck Cargo Pontoon, non propelled
+NON PROPELLED;Non Propelled;Pontoon;Grab Dredger Pontoon
+NON PROPELLED;Non Propelled;Pontoon;Suction Dredger Pontoon
+NON PROPELLED;Non Propelled;Pontoon;Dredging Pontoon, unknown dredging type
+NON PROPELLED;Non Propelled;Pontoon;Water-injection Dredging Pontoon
+NON PROPELLED;Non Propelled;Pontoon;Crane Vessel, non propelled
+NON PROPELLED;Non Propelled;Pontoon;Power Station Pontoon, non propelled
+NON PROPELLED;Non Propelled;Pontoon;Grain Elevating Pontoon, non propelled
+NON PROPELLED;Non Propelled;Pontoon;Sheerlegs Pontoon
+NON PROPELLED;Non Propelled;Pontoon;Desalination Pontoon, non propelled
+NON PROPELLED;Non Propelled;Pontoon;Shopping Complex
+NON PROPELLED;Non Propelled;Pontoon;Steam Supply Pontoon, non propelled
+NON PROPELLED;Non Propelled;Pontoon;Car Park
+NON PROPELLED;Non Propelled;Pontoon;Work Maintenance Pontoon, non propelled
+NON PROPELLED;Non Propelled;Pontoon;Pontoon (Function Unknown)
+NON SHIP STRUCTURES;Non Ship Structures;Air Cushion Vehicle (Hovercraft);Air Cushion Vehicle Passenger Ro-RO (Vehicles)
+NON SHIP STRUCTURES;Non Ship Structures;Air Cushion Vehicle (Hovercraft);Air Cushion Vehicle Passenger
+NON SHIP STRUCTURES;Non Ship Structures;Air Cushion Vehicle (Hovercraft);Air Cushion Vehicle, work Vessel
+NON SHIP STRUCTURES;Non Ship Structures;Air Cushion Vehicle (Hovercraft);Wing In Ground Effect Vessel
+NON SHIP STRUCTURES;Non Ship Structures;Air Cushion Vehicle (Hovercraft);Air Cushion Vehicle Patrol Vessel
+NON SHIP STRUCTURES;Non Ship Structures;Floating Dock;Dock Gate
+NON SHIP STRUCTURES;Non Ship Structures;Floating Dock;Mechanical Lift Dock
+NON SHIP STRUCTURES;Non Ship Structures;Floating Dock;Floating Dock
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Accomodation Platform, semi submersible
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Driling Rig, semi submersible
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Diving Support Platform, semi submersible
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Pipe Layer Platform, semi submersible
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Maintenance Platform, semi submersible
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Production Platform, semi submersible
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Accomodation Platform, jack up
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Crane Platform, jack up
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Driling Rig, jack up
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Support Platform, jack up
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Production Platform, jack up
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Supply Platform, jack up
+NON SHIP STRUCTURES;Non Ship Structures;Platform ;Pumping Platform
+NON SHIP STRUCTURES;Non Ship Structures;Buoy;Mooning Boy
+NON SHIP STRUCTURES;Non Ship Structures;Linkspan Jetty;Linkspan Jetty
+NON SHIP STRUCTURES;Non Ship Structures;Submersible;Submersible
+NON SHIP STRUCTURES;Non Ship Structures;Underwater System;Underwater System

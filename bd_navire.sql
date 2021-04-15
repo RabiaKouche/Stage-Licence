@@ -1,0 +1,93 @@
+
+CREATE TABLE public.arborescence_navires (
+    niveau1 character varying(50) NOT NULL,
+    niveau2 character varying(50) NOT NULL,
+    niveau3 character varying(50) NOT NULL,
+    niveau4 character varying(100) NOT NULL
+);
+
+CREATE TABLE public.navire (
+    imo_lr_ihs_no integer NOT NULL,
+    mmsi character varying(10) DEFAULT 0,
+    name_of_ship character varying(50) NOT NULL,
+    aux_engine_builder character varying(50),
+    aux_engine_design character varying(30),
+    aux_engine_model character varying(30),
+    aux_engine_stroke_type integer DEFAULT 0,
+    aux_engine_total_kw integer DEFAULT 0,
+    breadth real DEFAULT 0.00,
+    breadth_extreme real DEFAULT 0.00,
+    breadth_moulded real DEFAULT 0.00,
+    built character varying(10) NOT NULL,
+    cabins integer NOT NULL,
+    call_sign character varying(30),
+    class character varying(10),
+    country_of_build character varying(50) NOT NULL,
+    dead_weight integer NOT NULL,
+    delivery_date character varying(10),
+    depth real DEFAULT 0.0,
+    displacement integer DEFAULT 0,
+    doc_company character varying(50) DEFAULT 0.0,
+    doc_company_code integer DEFAULT 0,
+    docking_survey integer DEFAULT 0,
+    draugth real DEFAULT 0.0,
+    engine_bore integer DEFAULT 0,
+    engine_builder character varying(100) NOT NULL,
+    engine_cylinders integer DEFAULT 0,
+    engine_design character varying(50) DEFAULT NULL::character varying,
+    engine_model character varying(30) DEFAULT NULL::character varying,
+    engine_stroke character varying(25) NOT NULL,
+    engine_stroke_type character varying(5) DEFAULT NULL::character varying,
+    engine_type character varying(20) NOT NULL,
+    engine_number character varying(20) NOT NULL,
+    engines_rpm integer DEFAULT 0,
+    flag character varying(30) NOT NULL,
+    fluel_capacity1 character varying(30) NOT NULL,
+    fluel_capacity2 real NOT NULL,
+    fuel_consumption_main_engines real NOT NULL,
+    fuel_consumption_total real NOT NULL,
+    fuel_type1 character varying(30) NOT NULL,
+    fuel_type2 character varying(30) NOT NULL,
+    gas_capacity character varying(30) NOT NULL,
+    group_owner character varying(50) NOT NULL,
+    group_owner_code character varying(30) NOT NULL,
+    gt character varying(30) NOT NULL,
+    keel_laid character varying(30) DEFAULT NULL::character varying,
+    keel_to_mast_height real NOT NULL,
+    last_update character varying(20) DEFAULT NULL::character varying,
+    launch_date character varying(20) DEFAULT NULL::character varying,
+    length character varying(20) NOT NULL,
+    operator character varying(50) NOT NULL,
+    operator_code integer DEFAULT 0,
+    order_date character varying(30) NOT NULL,
+    propulsion_type character varying(50) NOT NULL,
+    reefer_points character varying(25) NOT NULL,
+    registered_owner character varying(50) NOT NULL,
+    registered_owner_code character varying(50),
+    roro_lanes_number character varying(30) NOT NULL,
+    sale_date character varying(30),
+    sale_price_us character varying(30),
+    segregated_ballast_capacity integer,
+    service_speed character varying(30),
+    ship_type character varying(50) NOT NULL,
+    ship_type_group character varying(50) NOT NULL,
+    shipbuilder character varying(50) NOT NULL,
+    shipbuilder_code character varying(50) NOT NULL,
+    shipmanager character varying(50) NOT NULL,
+    shipmanager_code integer NOT NULL,
+    status character varying(50) NOT NULL,
+    technical_manager character varying(50) NOT NULL,
+    technical_manager_code integer NOT NULL,
+    teu integer NOT NULL,
+    year character varying(5),
+    type_of_navire character varying(50) NOT NULL
+);
+
+
+ALTER TABLE ONLY public.navire ADD CONSTRAINT "PK_IMO" PRIMARY KEY (imo_lr_ihs_no);
+
+ALTER TABLE ONLY public.arborescence_navires
+    ADD CONSTRAINT "PK_Niveau4" PRIMARY KEY (niveau4);
+
+ALTER TABLE  public.navire ADD CONSTRAINT "FK_SHIP" FOREIGN KEY (ship_type)
+    REFERENCES arborescence_navires(niveau4);
